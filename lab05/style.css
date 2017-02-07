@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(244,233,168);
+    width: 800px;
+}
+h1{
+    background-color: rgb(122,109,156);
+}
+h2{
+    background-color: rgb(243,90,74);
+}
+h3{
+    background-color: rgb(123,163,168);
+}
+p{
+    background-color: rgb(190,173,146);
+}
+figcaption{
+    font-style: italic;
+    color: rgb(128,127,131);
+}
+figure{
+    width: 600px;
+    margin: auto;
+}
+img{
+    width: 600px;
+}
