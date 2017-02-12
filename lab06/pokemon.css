@@ -1,0 +1,50 @@
+.card{
+    width: 200px;
+    display: inline-block;
+    border-style:solid;
+    border-color: black;
+    border-width:thin;
+    border-radius: 10px;
+    vertical-align: top;
+}
+.card img{
+    width: 100%;
+}
+.name {
+    text-align: center;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.card p{
+    font-family: sans-serif;
+}
+#card1 {
+    background-color:beige;
+}
+#card2 {
+    background-color: olive;
+}
+#card3 {
+    background-color:gray;
+}
+#card4 {
+    background-color:cadetblue;
+}
+#card5 {
+    background-color:deepskyblue;
+}
+#card6 {
+    background-color:bisque;
+}
+.favorite {
+    width: 200px;
+    display:inline-block;
+    vertical-align: top;
+    border-style: dotted;
+    border-color: red;
+    border-width: bold;
+}
+.favorite img {
+    width: 100%;
+    vertical-align: top;
+}
