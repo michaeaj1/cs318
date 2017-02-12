@@ -2,8 +2,8 @@
     width: 200px;
     display: inline-block;
     border-style:solid;
-    border-color: black;
-    border-width:thin;
+    border-color: #000000;
+    border-width:1px;
     border-radius: 10px;
     vertical-align: top;
 }
@@ -42,7 +42,7 @@
     vertical-align: top;
     border-style: dotted;
     border-color: red;
-    border-width: bold;
+    border-width: 5px;
 }
 .favorite img {
     width: 100%;
