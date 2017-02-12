@@ -1,0 +1,15 @@
+body {
+    background-color: darkblue;
+}
+h3 {
+    font-size: 24pt;
+    color: aliceblue;
+    font-family: 'Caveat Brush', cursive;
+    text-shadow: 5px 1px 10px #FFFFAA;
+    margin-bottom: 0;
+}
+.answer {
+    margin-top: 0;
+    color:white;
+    font-family: 'Indie Flower', cursive;
+}
