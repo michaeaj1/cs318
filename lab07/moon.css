@@ -9,4 +9,5 @@ body {
 }
 ul {
     list-style-image: url(images/moon.png);
+    text-align: left;
 }
