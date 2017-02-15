@@ -1,0 +1,13 @@
+body {
+    background-image: url(images/farm.jpg);
+    background-repeat: no-repeat;
+    color: firebrick;
+    text-align: right;
+    background-color: beige;
+}
+div {
+    margin-top: 533px;
+    background-image: url(images/cow.png);
+    height: auto;
+    background-repeat: no-repeat;
+}
