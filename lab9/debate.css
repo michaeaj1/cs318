@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+}
+.blurb{
+    width: 90%;
+    min-width: 400px;
+    min-height: 202px;
+    background-size: 200px;
+    background-repeat: no-repeat;
+    margin-bottom: 30px;
+    padding-left: 220px;
+    box-sizing: border-box;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, .50);
+    border-style:solid;
+    border-width: 1px;
+    font-family: 'Pangolin', cursive;
+
+}
+
+.left{
+    background-color: beige;
+    background-image: url(images/mom.jpg);
+    border-top-right-radius: 100px;
+    border-bottom-right-radius: 100px;
+    background-position: left;
+    
+}
+
+.right{
+    background-color: azure;
+    background-image: url(images/kid.jpg);
+    margin-left: auto;
+    border-top-left-radius: 100px;
+    border-bottom-left-radius: 100px;
+    background-position: right;
+}
+#heading {
+    background-image:linear-gradient(to right, beige, azure);
+    text-align: center;
+    box-shadow: inset 1px 1px 15px white;
+    padding: 0;
+    margin-bottom: 30px;
+}
+#blue {
+    color: blue;
+}
+#brown {
+    color:saddlebrown;
+}

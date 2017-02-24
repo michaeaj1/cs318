@@ -1,0 +1,67 @@
+body {
+    background-image:linear-gradient(to bottom, lightblue, blue);
+    width:auto;
+}
+header {
+    text-align: center;
+    font-size: 24pt;
+    font-family: sans-serif;
+    background-color: darkblue;
+    color: white;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+     margin-bottom: 0;
+
+}
+nav {
+  text-align: center;
+    background-color: white;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto; 
+    margin-bottom: 0;
+    padding: 10px 0 10px 0;
+     
+}
+main {
+    background-color: white;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto; 
+    margin-bottom: 0;
+    padding-bottom: 10px
+     
+}
+footer {
+    font-style: italic; 
+    margin: 0 12.5% auto 12.5%;
+    text-align: right;
+    background-color: white;
+    width: auto; 
+    padding: 10px 10px 10px 0;
+
+    
+}
+#welcome {
+    text-align: left;
+    padding: 10px;
+}
+#blurb {
+    text-align: right;
+    padding: 0 10px 0 0;
+}
+.text {
+    padding: 0 10px 5px 10px;
+}
+#image {
+    width: 100%;
+    height: auto;
+    
+}
+.shadow {
+    box-shadow: 10px 10px rgba(0, 0, 0, 0.3);
+}
+.space {
+    padding: 10px;
+}
