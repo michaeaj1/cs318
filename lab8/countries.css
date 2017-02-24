@@ -1,0 +1,43 @@
+
+body {
+   background-color:beige; 
+}
+
+#map1 {
+    background-image: url(images/flag1.gif), url(images/stamp1.jpg);
+    background-size:   100px auto, 600px auto;
+    
+}
+
+#map2 {
+    background-image:  url(images/flag2.gif), url(images/stamp2.jpg);
+    background-size: 100px auto, 600px auto;
+    
+}
+#map3 {
+    background-image: url(images/flag3.gif), url(images/stamp3.jpg);
+    background-size: 100px auto, 800px auto;
+    
+}
+#map4 {
+    background-image:  url(images/flag4.gif), url(images/stamp4.jpg);
+    background-size: 100px auto, 900px auto;
+   
+}
+
+
+
+.stamp {
+    background-repeat: no-repeat, no-repeat, no-repeat, no-repeat;
+     margin: 10px;
+    width: 300px;
+    height: 300px;
+    box-sizing: border-box;
+    display: inline-block; 
+    border-style: dashed;
+    border-color: darkgreen;
+    box-shadow: 10px 10px 3px 3px rgba(0, 0, 0, 0.3);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-position: top right, center;
+}
