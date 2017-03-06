@@ -1,0 +1,77 @@
+* {
+    margin-left: auto;
+    margin-right: auto;
+}
+body {
+    width: 600px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .9);
+    background-color: #f2921D;
+}
+header {
+    background-color: #D94032;
+    color: white;
+    padding: 5px;
+    height:105px;
+}
+nav {
+    float: left;
+    width: 150px;
+    background-color: #f2921D;
+    color: #090D0B;
+    padding: 5px;
+}
+main {
+    background-color: #F2A71B;
+    color: #090D0B;
+    padding: 5px;
+    margin-left: 160px;
+    width:430px;
+    height:auto;
+}
+footer {
+    background-color: #F2C438;
+    color: #090D0B;
+    padding: 5px;
+    margin-left: 160px;
+}
+nav ul {
+    list-style-type: none;
+}
+nav a {
+    text-decoration: none;
+}
+#pizza {
+   position:fixed;
+    margin-right: 450px;
+    margin-left: 450px;
+    margin-bottom: 90%;
+    background-image: url(images/pizza.png);
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 101px;
+}
+#order {
+    color: white ;
+    font-size: 14pt;
+    font-weight: 300;
+    font-family: sans-serif;
+    position:absolute;
+    left: 50%;
+    top:50%;
+    transform: translate(-50%, -50%);
+}
+#text {
+    text-align: center;
+}
+.left {
+    float:left;
+    padding: 5px;
+}
+.right {
+    float:right;
+    padding: 5px;
+}
+#map {
+    width: 430px;
+    height: 450px;
+}

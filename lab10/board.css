@@ -1,0 +1,14 @@
+body {background-image: url(images/cork.jpg)}
+
+* {
+    box-sizing: border-box;
+}
+
+.photo {
+    
+}
+
+.pin {
+    width: 40px;
+    height: auto;
+}

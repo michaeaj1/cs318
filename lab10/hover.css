@@ -1,0 +1,42 @@
+#p1 {
+    background-image: url(images/cat.jpg);
+    background-repeat: no-repeat;   
+}
+#p2 {
+    background-image: url(images/chicken.jpg);
+    background-repeat: no-repeat;
+}
+#p3 {
+    background-image: url(images/horse.jpg);
+    background-repeat: no-repeat;
+}
+#p4 {
+    background-image: url(images/hamster.jpg);
+    background-repeat: no-repeat;
+}
+.photo {
+    width: 200px;
+    height: 200px;
+    display:inline-block;
+    background-size: 100%;
+    border-radius: 100%;
+    box-shadow: 0 0 70px rgba(0, 0, 0, 1);
+    position: relative;
+    margin: 20px;
+}
+.photo:hover {
+    box-shadow: 0 0 20px rgb(0, 0, 0);
+    top: 10px;
+    left: 10px;
+    
+}
+.name {
+    font-size: 24pt;
+    font-family: sans-serif;
+    color:aliceblue;
+    text-shadow: 2px 2px rgb(0, 0, 0);
+    position: absolute;
+    right:50px;
+    bottom:20px;
+    left: 50px;
+}
