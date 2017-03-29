@@ -1,0 +1,17 @@
+#free {
+    background-color: cornflowerblue;
+    padding: 10px 0 10px 0;
+    text-align: center;
+}
+td {
+    border-style: solid;
+    border-color: black;
+    padding: 20px
+}
+table {
+    border-spacing: 10px 10px;
+    border-collapse: collapse;
+}
+td:hover {
+    background-color: yellow;
+}

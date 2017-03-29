@@ -1,0 +1,79 @@
+* {
+    background-color: #000000;
+    color: #FFFFFF;
+}
+.shapes {
+    list-style-type: none;
+}
+#red {
+    width: 5em;
+    height: 1em;
+    background-color: #FF0000;
+}
+#orange {
+    width: 5em;
+    height: 1em;
+    background-color: #FFC200;
+}
+#yellow {
+    width: 5em;
+    height: 1em;
+    background-color: #FFEC06;
+}
+#green {
+    width: 5em;
+    height: 1em;
+    background-color: #007807;
+}
+#blue {
+    width: 5em;
+    height: 1em;
+    background-color: #0052FF;
+}
+#square {
+    width: 6em;
+    height: 6em;
+    background-color: #FFFFFF;
+     margin: 10px;
+}
+#circle {
+    width: 6em;
+    height: 6em;
+    background-color: #FFFFFF;
+    margin: 10px;
+    border-radius: 100%;
+}
+#top {
+    width: 6em;
+    height: 6em;
+    border-style: solid;
+    border-color: #3D3D3D;
+    border-width: 8px;
+    border-top-color: #FFFFFF;
+}
+#two {
+    width: 6em;
+    height: 6em;
+    border-style: solid;
+    border-color: #3D3D3D;
+    border-width: 8px;
+    border-top-color: #FFFFFF;
+    border-bottom-color: #FFFFFF;
+}
+#three {
+    width: 6em;
+    height: 6em;
+    border-style: solid;
+    border-color: #3D3D3D;
+    border-width: 8px;
+    border-top-color: #FFFFFF;
+    border-bottom-color: #FFFFFF;
+    border-right-color: #FFFFFF;
+}
+#all {
+    width: 6em;
+    height: 6em;
+    border-style: solid;
+    border-color: #FFFFFF;
+    border-width: 8px;
+}
