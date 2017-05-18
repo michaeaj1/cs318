@@ -33,7 +33,10 @@ nav a {
     padding: 1px 5px 1px 5px;
     text-decoration: none;
     background-color:floralwhite;
-    border: solid 1px;
+    border: solid 1px black;
+}
+nav a:hover {
+    background-color: transparent;
 }
 img {
     width: 40%;
